@@ -1,0 +1,2 @@
+diffbot/diffbot_base:diffbot/diffbot_bringup:diffbot/diffbot_control:diffbot/diffbot_description:diffbot/diffbot_gazebo:diffbot/diffbot_mbf:diffbot/diffbot_msgs:diffbot/diffbot_navigation:diffbot/diffbot_robot:diffbot/diffbot_slam:diffbot/grove_motor_driver:diffbot/grove_ultrasonic_ranger:diffbot/hmi
+-DCATKIN_DEVEL_PREFIX=/home/muhammed/Videolar/diff_robot/devel -DCMAKE_INSTALL_PREFIX=/home/muhammed/Videolar/diff_robot/install -G Unix Makefiles

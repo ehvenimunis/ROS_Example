@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/diff_robot/install
+
+Name: grove_motor_driver
+Description: Description of grove_motor_driver
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

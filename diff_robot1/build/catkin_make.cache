@@ -1,0 +1,2 @@
+myrobot_control:myrobot_description:myrobot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/muhammed/Videolar/diff_robot1/devel -DCMAKE_INSTALL_PREFIX=/home/muhammed/Videolar/diff_robot1/install -G Unix Makefiles

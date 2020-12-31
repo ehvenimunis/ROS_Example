@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/diff_robot/install
+
+Name: diffbot_base
+Description: Description of diffbot_base
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

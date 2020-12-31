@@ -1,0 +1,2 @@
+turtlebot_rrt
+-DCATKIN_DEVEL_PREFIX=/home/muhammed/Videolar/turtlebot/devel -DCMAKE_INSTALL_PREFIX=/home/muhammed/Videolar/turtlebot/install -G Unix Makefiles

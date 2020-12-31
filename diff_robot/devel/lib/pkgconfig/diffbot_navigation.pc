@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/diff_robot/devel
+
+Name: diffbot_navigation
+Description: Description of diffbot_navigation
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

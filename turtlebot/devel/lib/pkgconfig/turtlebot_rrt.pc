@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/turtlebot/devel
+
+Name: turtlebot_rrt
+Description: Description of turtlebot_rrt
+Version: 0.0.0
+Cflags: -I/home/muhammed/Videolar/turtlebot/src/turtlebot_rrt/include
+Libs: -L${prefix}/lib -lturtlebot_rrt
+Requires: roscpp pluginlib costmap_2d base_local_planner nav_core visualization_msgs

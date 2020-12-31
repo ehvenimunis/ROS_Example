@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/diff_robot/install
+
+Name: diffbot_mbf
+Description: Description of diffbot_mbf
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

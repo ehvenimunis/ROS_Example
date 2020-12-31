@@ -1,0 +1,8 @@
+prefix=/home/muhammed/Videolar/catkin_ws/install
+
+Name: rrt_planner
+Description: Description of rrt_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lrrt_planner
+Requires: roscpp nav_core costmap_2d base_local_planner pluginlib
